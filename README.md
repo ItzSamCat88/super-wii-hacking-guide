@@ -28,7 +28,7 @@ Welcome to the Super Wii Hacking Guide! This comprehensive guide provides detail
 
 ## Getting Started
 
-To view the guide, open the `index.html` file in your web browser. Make sure you have the accompanying `styles.css` file in the same directory for proper styling.
+To view the guide, download the `index.html` file in your web browser. Make sure you have the accompanying `styles.css` file in the same directory for proper styling.
 
 ## How to Contribute
 
